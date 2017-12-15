@@ -17,7 +17,7 @@
 
 <img width="425" alt="screen shot 2017-12-15 at 10 47 04 am" src="https://user-images.githubusercontent.com/32141146/34052252-3586b06e-e187-11e7-8554-350b368dd488.png">
 
-## Shows the update to the database from 82 units ot 81
+## Shows the update to the database from 82 units to 81
 
 <img width="438" alt="screen shot 2017-12-15 at 10 47 21 am" src="https://user-images.githubusercontent.com/32141146/34052265-3f4af236-e187-11e7-88ac-538b2b6a758b.png">
 
