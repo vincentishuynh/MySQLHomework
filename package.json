@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "<img width=\"1006\" alt=\"screen shot 2017-12-15 at 10 45 04 am\" src=\"https://user-images.githubusercontent.com/32141146/34052104-9378cd8e-e186-11e7-9984-06d4373c8d7e.png\">",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vincentishuynh/MySQLHomework.git"
+  },
+  "author": "vincent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vincentishuynh/MySQLHomework/issues"
+  },
+  "homepage": "https://github.com/vincentishuynh/MySQLHomework#readme",
+  "dependencies": {
+    "inquirer": "^4.0.1",
+    "mysql": "^2.15.0"
+  }
+}
